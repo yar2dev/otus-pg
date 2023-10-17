@@ -39,7 +39,7 @@ begin;
 UPDATE test_locks SET num=12;
 ```
 ```
-сеанс 2
+сеанс 3
 begin;
 UPDATE test_locks SET num=13;
 ```
